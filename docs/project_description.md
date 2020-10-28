@@ -42,3 +42,5 @@ Outputs:
 * [Reinforcement Learning for Solving the
 Vehicle Routing Problem](https://papers.nips.cc/paper/8190-reinforcement-learning-for-solving-the-vehicle-routing-problem.pdf) by Nazari et al.
 * [Benchmark Dataset](http://web.cba.neu.edu/~msolomon/problems.htm) for Vehicle Routing Problem by Solomon.
+* [MVRP solution method](http://mistic.heig-vd.ch/taillard/articles.dir/GoldenLT1997.pdf) for solving multi-vehicle problem by Golden et al.
+
