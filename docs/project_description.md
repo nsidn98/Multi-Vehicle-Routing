@@ -1,3 +1,5 @@
+[INTRODUCTION AND BACKGROUND](https://docs.google.com/document/d/1erjKy4EParSTpvh_4yV5FFI5dJq7n7SsHHq6Mrpjaww/edit)
+
 ## Multi-Vehicle Routing
 
 In this task, you will assign the order in which workstations are visited by your fleet of droids. You will
@@ -43,4 +45,5 @@ Outputs:
 Vehicle Routing Problem](https://papers.nips.cc/paper/8190-reinforcement-learning-for-solving-the-vehicle-routing-problem.pdf) by Nazari et al.
 * [Benchmark Dataset](http://web.cba.neu.edu/~msolomon/problems.htm) for Vehicle Routing Problem by Solomon.
 * [Method](http://mistic.heig-vd.ch/taillard/articles.dir/GoldenLT1997.pdf) for solving multi-vehicle problem by Golden et al.
+
 
