@@ -1,6 +1,22 @@
 # Multi-Vehicle-Routing
 Multi Vehicle Routing. (16.413/6.877- Principles of Autonomy and Decision Making course project)
 
+## Minizinc test file:
+Run `python minizinc_test.py` to get the following output:
+```
+##################################################
+Number of customers are: 8
+Demands at each node are: [10, 5, 16, 1, 18, 28, 29, 0]
+Number of vehicles available: 10
+Maximum capacity of each vehicle: 30
+##################################################
+
+########## SOLUTION FOUND ####################
+Distance Travelled: 507
+Number of Vehicles used: 4
+##################################################
+```
+![Example solution](https://raw.githubusercontent.com/nsidn98/Multi-Vehicle-Routing/main/assets/vrp_solution.png?token=AGFGCMD6SSEPI4KSKJBRKGK7X2UGO)
 ## Google Colaboratory Support
 Open the notebook in Google Colaboratory:
 
